@@ -6,6 +6,3 @@ def my_each(array)
 end 
 array 
 end
-
-my_each(["tim", "tom", "jim"]) do |name|
-  
