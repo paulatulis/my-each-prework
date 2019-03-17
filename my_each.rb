@@ -8,7 +8,3 @@ array
 end
 end
 
-my_each(words).each do |word|
-  puts word 
-end
-end 
